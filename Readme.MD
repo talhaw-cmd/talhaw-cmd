@@ -45,8 +45,6 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🤖 **AI-Resume-Analyzer** | AI-powered resume analyzer with ATS scoring & career suggestions | React, FastAPI, Gemini AI |

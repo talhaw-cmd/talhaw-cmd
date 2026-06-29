@@ -34,7 +34,9 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 
 ### Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photopea](https://img.shields.io/badge/Photopea-blue?style=for-the-badge&logo=photopea&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-black?style=for-the-badge&logo=Inkscape&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=Photoshop&logoColor=white)
 
 ---
 

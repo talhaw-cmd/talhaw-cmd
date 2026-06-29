@@ -31,12 +31,15 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photopea](https://img.shields.io/badge/Photopea-blue?style=for-the-badge&logo=photopea&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-black?style=for-the-badge&logo=Inkscape&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=Photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
 

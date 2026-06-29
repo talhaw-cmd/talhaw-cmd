@@ -45,14 +45,16 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
+
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 **Resume Analyzer** | AI-powered resume analyzer with ATS scoring | React, FastAPI, Python |
-| ✅ **TaskFlow** | Full-stack task manager | React, FastAPI, MongoDB |
-| ⚽ **MatchAlert** | Football match notification app | React, Push Notifications |
-| 🎓 **LMS Platform** | Full-featured learning management system | MERN, Stripe, Cloudinary |
-| 🆘 **SDRS** | Smart Disaster Relief System | Flask, MongoDB |
-
+| 🤖 **AI-Resume-Analyzer** | AI-powered resume analyzer with ATS scoring & career suggestions | React, FastAPI, Gemini AI |
+| 🍕 **Foodies-App** | Food delivery app with cart management & automated order confirmations | React, Context API |
+| 💰 **Currency-Converter** | Real-time currency converter with live exchange rates | React |
+| 🆘 **Smart-Relief-System** | Disaster Relief Management System | Python, MongoDB, HTML |
+| 💬 **Chatbot-NLP** | NLP chatbot with tokenization, lemmatization & intent classification | Python, NLTK, ML |
+| 🎨 **Design-Portfolio** | Graphic design work showcase | — |
 ---
 
 ## 📊 GitHub Stats
@@ -75,9 +77,5 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123mtalha789@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talhaw-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">⭐ <i>Star my repos if you find them useful!</i> ⭐</p>

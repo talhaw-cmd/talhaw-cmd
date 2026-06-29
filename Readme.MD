@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muhammad Talha
 
-### 🎓 CS Student • ⚡ Frontend Developer • 🎨 Graphic Designer
+### 🎓 CS Student • ⚡ Full Stack Developer • 🎨 Graphic Designer
 
 A passionate **2nd-year BSCS student** from Pakistan, building things with React & FastAPI while freelancing on Fiverr. I love turning ideas into clean, functional UIs.
 

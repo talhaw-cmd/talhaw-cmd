@@ -25,7 +25,8 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 <img src="https://skillicons.dev/icons?i=fastapi,python,mongodb,flask,nodejs,express" />
 
 ### Design Tools
-<img src="https://skillicons.dev/icons?i=canva,photoshop,illustrator,figma" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="40"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
 
 ---
 

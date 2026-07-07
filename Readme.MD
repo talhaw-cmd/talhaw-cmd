@@ -31,12 +31,14 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 
 ## 📈 Language Proficiency
 
-![Python](https://progress-bar.dev/85/?title=Python&width=250&color=3776AB)
-![JavaScript](https://progress-bar.dev/80/?title=JavaScript&width=250&color=F7DF1E)
-![C%2FC%2B%2B](https://progress-bar.dev/70/?title=C%2FC%2B%2B&width=250&color=00599C)
-![HTML%2FCSS](https://progress-bar.dev/90/?title=HTML%2FCSS&width=250&color=E34F26)
-![SQL](https://progress-bar.dev/65/?title=SQL&width=250&color=4479A1)
-![Assembly%20(NASM)](https://progress-bar.dev/60/?title=Assembly&width=250&color=808080)
+![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-70%25-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-90%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-65%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly%20(NASM)-60%25-808080?style=flat-square)
+
+> 💬 *% real skill level ke hisaab se khud adjust kar lena — mujhe batao to main update kar dunga.*
 
 ---
 
@@ -56,7 +58,7 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhaw-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Talha's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=talhaw-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Talha's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaw-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
@@ -69,7 +71,7 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=talhaw-cmd&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=talhaw-cmd&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="Trophies"/>
 </p>
 
 ---
@@ -78,7 +80,7 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 
 <p align="center">
   <a href="https://coding-portfolio-ten.vercel.app">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="45" title="Portfolio"/>
+    <img src="https://img.icons8.com/color/48/vercel.png" width="45" title="Portfolio"/>
   </a>
   <a href="https://www.fiverr.com/mtalha929">
     <img src="https://img.icons8.com/color/48/fiverr.png" width="45" title="Fiverr"/>

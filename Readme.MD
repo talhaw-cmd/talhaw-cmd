@@ -25,9 +25,18 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 <img src="https://skillicons.dev/icons?i=fastapi,python,mongodb,flask,nodejs,express" />
 
 ### Design Tools
-<img src="https://skillicons.dev/icons?i=canva,photoshop,illustrator" /> &nbsp; 
-<img src="https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" height="48"/> &nbsp;
-<img src="https://img.shields.io/badge/Photopea-1E88E5?style=flat-square&logo=photopea&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=canva,photoshop,illustrator,figma" />
+
+---
+
+## 📈 Language Proficiency
+
+![Python](https://progress-bar.dev/85/?title=Python&width=250&color=3776AB)
+![JavaScript](https://progress-bar.dev/80/?title=JavaScript&width=250&color=F7DF1E)
+![C%2FC%2B%2B](https://progress-bar.dev/70/?title=C%2FC%2B%2B&width=250&color=00599C)
+![HTML%2FCSS](https://progress-bar.dev/90/?title=HTML%2FCSS&width=250&color=E34F26)
+![SQL](https://progress-bar.dev/65/?title=SQL&width=250&color=4479A1)
+![Assembly%20(NASM)](https://progress-bar.dev/60/?title=Assembly&width=250&color=808080)
 
 ---
 
@@ -47,21 +56,40 @@ A passionate **2nd-year BSCS student** from Pakistan, building things with React
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhaw-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Talha's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaw-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaw-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhaw-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Talha's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaw-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaw-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaw-cmd&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=talhaw-cmd&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://coding-portfolio-ten.vercel.app)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mtalha929)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talhaw.r/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123mtalha789@gmail.com)
+<p align="center">
+  <a href="https://coding-portfolio-ten.vercel.app">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="45" title="Portfolio"/>
+  </a>
+  <a href="https://www.fiverr.com/mtalha929">
+    <img src="https://img.icons8.com/color/48/fiverr.png" width="45" title="Fiverr"/>
+  </a>
+  <a href="https://www.instagram.com/talhaw.r/">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45" title="Instagram"/>
+  </a>
+  <a href="mailto:123mtalha789@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" title="Gmail"/>
+  </a>
+</p>
 
 ---
 
